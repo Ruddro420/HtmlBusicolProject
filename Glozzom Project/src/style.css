@@ -1,0 +1,223 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.carousel-item{
+
+    height: 450px;
+}
+.carousel-item-1{
+
+    background: url("img/1.jpeg");
+    background-size: cover;
+}
+.carousel-item-2{
+
+    background: url("img/2.jpeg");
+    background-size: cover;
+}
+.carousel-item-3{
+
+    background: url("img/3.jpeg");
+    background-size: cover;
+}
+
+.fa{
+    font-size: 50px;
+}
+
+#home-section{
+    
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(img/5.jpeg);
+    padding: 2rem 0rem;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+
+.rounded{
+    border-radius: 0.25rem !important
+}
+
+
+#body-section{
+
+    background: url("img/3.jpeg");
+    min-height: 250px;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-repeat: no-repeat;
+}
+ #body-section .overplay2{
+
+    
+    position: absolute;
+    background: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+
+}
+#body-section .fa{
+    color: red;
+    font-size: 50px;
+}
+#photo-gallery img
+{
+    min-height: 250px;
+}
+
+#last-part {
+    background: black;
+}
+.nav-item{
+    padding-left: 1em;
+}
+
+
+
+#head-section{
+
+    background: url("img/1.jpeg");
+    min-height: 250px;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-repeat: no-repeat;
+}
+ #head-section .overplay3
+ {
+
+    
+    position: absolute;
+    
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+ }
+
+
+ .rounded-circle{
+
+    width: 350px;
+    height: 350px;
+ }
+
+
+#imo-part .card-body
+{
+    border-radius: 3px;
+}
+
+
+#blog-section{
+
+    background: url("img/2.jpeg");
+    min-height: 250px;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+ #blog-section .overplay4
+ {
+
+    
+    position: absolute;
+    
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+ }
+
+
+
+ .card-img-top{
+     min-height: 250px;
+ }
+
+ #blog-part .card:hover{
+
+    background: darkcyan;
+    color: #fff;
+ }
+
+
+
+ #contact-section{
+
+    background: url("img/3.jpeg");
+    min-height: 250px;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+ #contact-section .overplay5
+ {
+
+    
+    position: absolute;
+    
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+ }
+
+
+#form-section
+{
+    background: url("img/6.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+#product-item .fa{
+    font-size: 14px;
+}
+#product-item li:hover{
+    background: cornflowerblue;
+    
+}
+
+
+
+
+
+
+
+#product-item .card:hover{
+    background: rgb(15, 211, 136);
+    color: darkblue;
+
+}
+
+
+#imo-part .card:hover 
+{
+    background: rgb(75, 75, 80);
+    
+}
+
+
+#icon-part .col-lg-4:hover {
+    background: rgb(16, 132, 161);
+    color: white;
+    border-radius: 20px;
+    
+}
+
+
